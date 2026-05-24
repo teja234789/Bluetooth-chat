@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Bluetooth Chat",
+  "description": "Secure offline peer-to-peer messaging using Bluetooth classic. Features real-time sync, local encrypted database, presence indicators, and simulated links for emulator testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
